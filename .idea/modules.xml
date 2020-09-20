@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32).iml" filepath="$PROJECT_DIR$/.idea/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32).iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-amqp-consumer/demo-amqp-consumer.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-amqp-consumer/demo-amqp-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-amqp-mirror/demo-amqp-mirror.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-amqp-mirror/demo-amqp-mirror.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-amqp-producer/demo-amqp-producer.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-amqp-producer/demo-amqp-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/demo-def-api/demo-def-api.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/demo-def-api/demo-def-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/demo-def-client/demo-def-client.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/demo-def-client/demo-def-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/demo-def-server/demo-def-server.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/demo-def-server/demo-def-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/demo-def-server-zip/demo-def-server-zip.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/demo-def-server-zip/demo-def-server-zip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-mc-consumer/demo-mc-consumer.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-mc-consumer/demo-mc-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-mc-producer/demo-mc-producer.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-mc-producer/demo-mc-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-mc-t3-consumer/demo-mc-t3-consumer.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-mc-t3-consumer/demo-mc-t3-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-mcsync/demo-mcsync.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-mcsync/demo-mcsync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc-api/demo-rpc-api.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc-api/demo-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc-client/demo-rpc-client.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc-client/demo-rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc-server/demo-rpc-server.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc-server/demo-rpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc-server-zip/demo-rpc-server-zip.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/demo-rpc-server-zip/demo-rpc-server-zip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-sofa-consumer/demo-sofa-consumer.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-sofa-consumer/demo-sofa-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-sofa-producer/demo-sofa-producer.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-sofa-producer/demo-sofa-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-t2sdk/demo-t2sdk.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-t2sdk/demo-t2sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-t3sdk/demo-t3sdk.iml" filepath="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/demo-t3sdk/demo-t3sdk.iml" />
+    </modules>
+  </component>
+</project>

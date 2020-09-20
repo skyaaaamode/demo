@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-t3sdk" />
+        <module name="demo-amqp-producer" />
+        <module name="demo-sofa-producer" />
+        <module name="demo-mc-t3-consumer" />
+        <module name="demo-amqp-consumer" />
+        <module name="demo-mc-producer" />
+        <module name="demo-def-server" />
+        <module name="demo-mc-consumer" />
+        <module name="demo-rpc-client" />
+        <module name="demo-def-client" />
+        <module name="demo-amqp-mirror" />
+        <module name="demo-mcsync" />
+        <module name="demo-rpc-api" />
+        <module name="demo-rpc-server" />
+        <module name="demo-t2sdk" />
+        <module name="demo-sofa-consumer" />
+        <module name="demo-def-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-amqp-consumer" target="1.8" />
+      <module name="demo-amqp-mirror" target="1.8" />
+      <module name="demo-amqp-producer" target="1.8" />
+      <module name="demo-def" target="1.8" />
+      <module name="demo-def-api" target="1.8" />
+      <module name="demo-def-client" target="1.8" />
+      <module name="demo-def-server" target="1.8" />
+      <module name="demo-def-server-zip" target="1.8" />
+      <module name="demo-mc-consumer" target="1.8" />
+      <module name="demo-mc-producer" target="1.8" />
+      <module name="demo-mc-t3-consumer" target="1.8" />
+      <module name="demo-mcsync" target="1.8" />
+      <module name="demo-mq" target="1.8" />
+      <module name="demo-rpc" target="1.8" />
+      <module name="demo-rpc-api" target="1.8" />
+      <module name="demo-rpc-client" target="1.8" />
+      <module name="demo-rpc-server" target="1.8" />
+      <module name="demo-rpc-server-zip" target="1.8" />
+      <module name="demo-sofa-consumer" target="1.8" />
+      <module name="demo-sofa-producer" target="1.8" />
+      <module name="demo-t2sdk" target="1.8" />
+      <module name="demo-t3sdk" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

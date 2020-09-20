@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/pom.xml" />
+        <option value="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-rpc/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-def/pom.xml" />
+        <option value="$PROJECT_DIR$/JRESCLOUD3.0V202007.00.000springboot1-sofa(2.0.32)/demo-mq/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
